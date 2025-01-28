@@ -3,7 +3,6 @@
 ## Sobre Mim
 Sou estagiário na área de análise de dados e estudante de Ciência da Computação. Meu foco atual está em desenvolver habilidades utilizando a linguagem Python para solucionar problemas e criar soluções inteligentes.
 
-- 
 ## 📊 Linguagens Mais Usadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoreis08&layout=compact&theme=radical)
 
